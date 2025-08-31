@@ -31,7 +31,7 @@ AI Luxe Labs is designed as a **living collection** of experiments.
 ---
 
 ## 📚 Connect & Learn
-- 🌐 [507 Insights](https://507insights.com) *(coming soon)*  
+- 🌐 [507 Insights](https://507insights.com)
 - 💼 [LinkedIn – 507 Insights](https://www.linkedin.com/company/507insights)  
 - 🧑‍💻 [GitHub – ailuxelab](https://github.com/ailuxelab)  
 

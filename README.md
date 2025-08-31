@@ -1,7 +1,7 @@
 # ✨ AI Luxe Labs
 
 Welcome to **AI Luxe Labs** — a creative sandbox for experimenting, building, and teaching AI solutions.  
-This space is curated by **Skye (507 Insights)** to explore how AI can simplify life, accelerate business transformation, and inspire learning.
+This space is curated by **(507 Insights)** to explore how AI can simplify life, accelerate business transformation, and inspire learning.
 
 ---
 

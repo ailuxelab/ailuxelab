@@ -1,7 +1,7 @@
 # ✨ AI Luxe Labs
 
 Welcome to **AI Luxe Labs** — a creative sandbox for experimenting, building, and teaching AI solutions.  
-This space is curated by **(507 Insights)** to explore how AI can simplify life, accelerate business transformation, and inspire learning.
+This space is curated by **507 Insights** to explore how AI can simplify life, accelerate business transformation, and inspire learning.
 
 ---
 
@@ -31,8 +31,8 @@ AI Luxe Labs is designed as a **living collection** of experiments.
 ---
 
 ## 📚 Connect & Learn
-- 🌐 [507 Insights](https://507insights.com) *(coming soon)*  
-- 💼 [LinkedIn – Skye](https://linkedin.com/in/...)  
+- 🌐 [507 Insights](https://507insights.com)
+- 💼 [LinkedIn – 507 Insights (https://www.linkedin.com/company/507insights)
 - 🧑‍💻 [GitHub – ailuxelab](https://github.com/ailuxelab)  
 
 ---

@@ -1,3 +1,5 @@
+![AI Luxe Labs Banner](.A_banner_for_AI_Luxe_Labs_is_featured_in_the_digit.png)
+
 # ✨ AI Luxe Labs
 
 Welcome to **AI Luxe Labs** — a creative sandbox for experimenting, building, and teaching AI solutions.  
